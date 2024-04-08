@@ -65,6 +65,7 @@ public class DatasGettigViaMethods {
 
 	public static void main(String[] args) {
 		getting.showMenu();
+		CollaborationInGithug.collaborateWithTeam();
 	}
 
 }
